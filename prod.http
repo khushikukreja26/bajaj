@@ -1,0 +1,17 @@
+### Example A
+POST https://bajaj-qz2u.onrender.com/bfhl
+Content-Type: application/json
+
+{ "data": ["a","1","334","4","R","$"] }
+
+### Example B
+POST https://bajaj-qz2u.onrender.com/bfhl
+Content-Type: application/json
+
+{ "data": ["2","a","y","4","&","-","*","5","92","b"] }
+
+### Example C
+POST https://bajaj-qz2u.onrender.com/bfhl
+Content-Type: application/json
+
+{ "data": ["A","ABcD","DOE"] }
