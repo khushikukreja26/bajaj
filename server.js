@@ -10,10 +10,10 @@ app.use(cors());
 
 // Configuration - Replace these with your actual details
 const USER_CONFIG = {
-    full_name: "Kumarvaishnav", // Replace with your full name in lowercase
-    dob: "07072004", // Replace with your DOB in ddmmyyyy format
-    email: "dkumarvaishnav47@gmail.com", // Replace with your email
-    roll_number: "22BAI10332" // Replace with your college roll number
+    full_name: "khushikukreja", // Replace with your full name in lowercase
+    dob: "26122003", // Replace with your DOB in ddmmyyyy format
+    email: "khushiaaryankukreja@gmail.com", // Replace with your email
+    roll_number: "22BCE10305" // Replace with your college roll number
 };
 
 // Helper function to check if a string is numeric
@@ -144,4 +144,5 @@ app.listen(PORT, () => {
 });
 
 // Export for testing purposes
+
 module.exports = app;
